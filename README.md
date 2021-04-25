@@ -1,6 +1,6 @@
 # Implementações com MongoDB 
 
-Seja bem vindo a sessão de implementações com mongoDB!
+Seja bem vindo(a) a sessão de implementações com mongoDB!
 
 ### Requisitos:
 
