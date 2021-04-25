@@ -1,5 +1,5 @@
-# Tutoriais de implementações com MongoDB 
+# Implementações com MongoDB 
 
-Seja bem vindo a sessão de tutoriais do mongoDB!
+Seja bem vindo a sessão de implementações com mongoDB!
 
 - Implementação do mongoDB com Sharding/ReplicaSet com Docker.
